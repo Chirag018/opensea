@@ -1,5 +1,5 @@
 import React from 'react'
-import sponsor from '../assets/sponsors.png'
+import sponsor from '../../assets/sponsors.png'
 
 function Sponsors() {
   return (

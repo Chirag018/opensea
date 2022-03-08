@@ -1,11 +1,10 @@
 import React from 'react'
 // import dummy1 from '../assets/dummy1.png'
 import { RiArrowRightSLine, RiArrowLeftSLine, RiSlideshow2Fill } from 'react-icons/ri'
-import vector from '../assets/Vector.png'
-import dots from '../assets/dots.png'
-import reso1 from '../assets/reso1.png'
-import reso2 from '../assets/reso2.png'
-import reso3 from '../assets/reso3.png'
+
+import reso1 from '../../assets/reso1.png'
+import reso2 from '../../assets/reso2.png'
+import reso3 from '../../assets/reso3.png'
 
 function Resource() {
     return (

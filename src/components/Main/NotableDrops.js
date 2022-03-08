@@ -1,8 +1,8 @@
 import React from 'react'
-import alpha from '../assets/alpha.png'
-import beta from '../assets/beta.png'
-import gamma from '../assets/gamma.png'
-import zamma from '../assets/zamma.png'
+import alpha from '../../assets/alpha.png'
+import beta from '../../assets/beta.png'
+import gamma from '../../assets/gamma.png'
+import zamma from '../../assets/zamma.png'
 
 function NotableDrops() {
     return (

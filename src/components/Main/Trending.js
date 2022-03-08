@@ -1,10 +1,10 @@
 import React from 'react'
-import trend1 from '../assets/trend1.png'
-import trend2 from '../assets/trend2.png'
-import trend3 from '../assets/trend3.png'
-import trend11 from '../assets/trend11.png'
-import trend12 from '../assets/trend12.png'
-import trend13 from '../assets/trend13.png'
+import trend1 from '../../assets/trend1.png'
+import trend2 from '../../assets/trend2.png'
+import trend3 from '../../assets/trend3.png'
+import trend11 from '../../assets/trend11.png'
+import trend12 from '../../assets/trend12.png'
+import trend13 from '../../assets/trend13.png'
 
 
 function Trending() {

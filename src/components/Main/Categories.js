@@ -1,12 +1,12 @@
 import React from 'react'
-import exp1 from '../assets/exp1.png'
-import exp2 from '../assets/exp2.png'
-import exp3 from '../assets/exp3.png'
-import exp4 from '../assets/exp4.png'
-import exp5 from '../assets/exp5.png'
-import exp6 from '../assets/exp6.png'
-import exp7 from '../assets/exp7.png'
-import exp8 from '../assets/exp8.png'
+import exp1 from '../../assets/exp1.png'
+import exp2 from '../../assets/exp2.png'
+import exp3 from '../../assets/exp3.png'
+import exp4 from '../../assets/exp4.png'
+import exp5 from '../../assets/exp5.png'
+import exp6 from '../../assets/exp6.png'
+import exp7 from '../../assets/exp7.png'
+import exp8 from '../../assets/exp8.png'
 
 function Categories() {
     return (

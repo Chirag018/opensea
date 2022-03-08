@@ -1,10 +1,10 @@
 import React from 'react'
-import search from '../assets/search.png'
-import logo from '../assets/logo.png'
-import purse from '../assets/purse.png'
-import added from '../assets/added.png'
-import backg from '../assets/background.png'
-import rightheader from '../assets/rightheader.png'
+import search from '../../assets/search.png'
+import logo from '../../assets/logo.png'
+import purse from '../../assets/purse.png'
+import added from '../../assets/added.png'
+import backg from '../../assets/background.png'
+import rightheader from '../../assets/rightheader.png'
 
 const Header = () => {
     return (
