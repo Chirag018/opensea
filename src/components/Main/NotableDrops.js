@@ -9,7 +9,7 @@ function NotableDrops() {
         <div className="notable-drops lg:grid lg:grid-cols-2 lg:pb-48">
             <div className="grid lg:grid-row-2 lg:grid-cols-2">
                 <img className="lg:w-56 lg:mx-20 lg:my-10" src={alpha} alt="FriYayWiz" />
-                <img className="lg:w-48 lg:-ml-8 lg:mt-20" src={beta} alt="Kootings" />
+                <img className="lg:w-48 lg:-ml-5 lg:mt-20" src={beta} alt="Kootings" />
                 <img className="lg:w-56 lg:ml-11 lg:-mt-8" src={gamma} alt="Harry chinati" />
                 <img className="lg:-ml-14 lg:-mt-8" src={zamma} alt="PixelWizards" />
             </div>
