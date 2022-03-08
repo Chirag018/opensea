@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Chirag018/opensea/static/css/main.e70aa2aa.css",
+    "main.js": "/Chirag018/opensea/static/js/main.4ac81f24.js",
+    "static/media/beta.png": "/Chirag018/opensea/static/media/beta.6f4666768a97cc9c269c.png",
+    "static/media/alpha.png": "/Chirag018/opensea/static/media/alpha.ea7924819b31efe6e6a4.png",
+    "static/media/gamma.png": "/Chirag018/opensea/static/media/gamma.5f4bae486a5d4f12c72d.png",
+    "static/media/background.png": "/Chirag018/opensea/static/media/background.00029e773ea93bb1aefc.png",
+    "static/media/zamma.png": "/Chirag018/opensea/static/media/zamma.50208f331bd11e750c92.png",
+    "static/media/trend2.png": "/Chirag018/opensea/static/media/trend2.b7f82cd2ad4d82174eb0.png",
+    "static/media/trend3.png": "/Chirag018/opensea/static/media/trend3.d98628df8bf083a3ae3f.png",
+    "static/media/trend1.png": "/Chirag018/opensea/static/media/trend1.dda4c2b99b1c4d084968.png",
+    "static/media/rightheader.png": "/Chirag018/opensea/static/media/rightheader.1fdeeb86306b58811033.png",
+    "static/media/exp8.png": "/Chirag018/opensea/static/media/exp8.eae19c30db65fc98a38e.png",
+    "static/media/exp3.png": "/Chirag018/opensea/static/media/exp3.1e809d511dbc4ca4ea65.png",
+    "static/media/sponsors.png": "/Chirag018/opensea/static/media/sponsors.2d8cdbfb735e2f922824.png",
+    "static/media/exp4.png": "/Chirag018/opensea/static/media/exp4.f8154436cc99f1b2aba4.png",
+    "static/media/exp1.png": "/Chirag018/opensea/static/media/exp1.5033facff332b286f692.png",
+    "static/media/exp5.png": "/Chirag018/opensea/static/media/exp5.54f8edaf9f29d93de0b5.png",
+    "static/media/exp2.png": "/Chirag018/opensea/static/media/exp2.c77805fac41f0c0fe147.png",
+    "static/media/exp6.png": "/Chirag018/opensea/static/media/exp6.786183695c17a2b620e7.png",
+    "static/media/trend13.png": "/Chirag018/opensea/static/media/trend13.1398f3464f9edf1efeaa.png",
+    "static/media/trend12.png": "/Chirag018/opensea/static/media/trend12.caa009031ce04e607485.png",
+    "static/media/trend11.png": "/Chirag018/opensea/static/media/trend11.1b2e4cb590c5c748af46.png",
+    "index.html": "/Chirag018/opensea/index.html",
+    "main.e70aa2aa.css.map": "/Chirag018/opensea/static/css/main.e70aa2aa.css.map",
+    "main.4ac81f24.js.map": "/Chirag018/opensea/static/js/main.4ac81f24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e70aa2aa.css",
+    "static/js/main.4ac81f24.js"
+  ]
+}
