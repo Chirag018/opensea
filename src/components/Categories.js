@@ -71,7 +71,7 @@ function Categories() {
 
 
             </div>
-            <button className='bg-blue-500 text-white lg:p-4'>Explore Marketplace</button>
+            <button className='bg-blue-500 text-white lg:p-4 lg:ml-96 ml-36 p-4'>Explore Marketplace</button>
         </>
     )
 }

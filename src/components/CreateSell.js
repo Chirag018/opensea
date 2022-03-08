@@ -3,7 +3,7 @@ import React from 'react'
 function CreateSell() {
     return (
             <div class="create-sell grid grid-cols-1 border-4 p-4 pt-32 mx-8 -mt-20">
-                <div class="sm:text-center lg:text-center">
+                <div class="sm:text-center text-center">
                     <h1 class="font-bold text-2xl text-blue-500">Create and Sell Your Nft's</h1>
                     <p class="sm:text-center mx-32 text-center pt-5 sm:mx-72 text-sm md:mx-56">A play of light and shade, chairoscuro is the realm between the light and dark.</p>
                 </div>

@@ -20,15 +20,15 @@ function Help() {
             <div class="right grid grid-rows-6 text-left">
                 <h1 onClick={() => setShow(!show)} class="text-2xl text-blue-700 cursor-pointer">How do I create an NFT?</h1>
                 {show && <p class="text-sm w-auto">From Opensea.io, go to your profile icon and click “Create” in the top right corner. You’ll be taken to the NFT item creation page. This page will allow you to upload your NFT file, name it and add a description.</p>}
-                <span onClick={() => setShow01(!show01)} className='text-blue-700'>How do I create and sell NFTs on Polygon?</span>
+                <span onClick={() => setShow01(!show01)} className='text-blue-700 cursor-pointer'>How do I create and sell NFTs on Polygon?</span>
                 {show01 && <p class="text-sm w-auto">From Opensea.io, go to your profile icon and click “Create” in the top right corner. You’ll be taken to the NFT item creation page. This page will allow you to upload your NFT file, name it and add a description.</p>}
-                <span onClick={() => setShow02(!show02)} className='text-blue-700' >What is Freezing Metadata</span>
+                <span onClick={() => setShow02(!show02)} className='text-blue-700 cursor-pointer' >What is Freezing Metadata</span>
                 {show02 && <p class="text-sm w-auto">From Opensea.io, go to your profile icon and click “Create” in the top right corner. You’ll be taken to the NFT item creation page. This page will allow you to upload your NFT file, name it and add a description.</p>}
-                <span onClick={() => setShow03(!show03)}  className='text-blue-700'>Does Opensea allow physical item trades?</span>
+                <span onClick={() => setShow03(!show03)}  className='text-blue-700 cursor-pointer'>Does Opensea allow physical item trades?</span>
                 {show03 && <p class="text-sm w-auto">From Opensea.io, go to your profile icon and click “Create” in the top right corner. You’ll be taken to the NFT item creation page. This page will allow you to upload your NFT file, name it and add a description.</p>}
-                <span onClick={() => setShow04(!show04)}  className='text-blue-700'>How do I add a collection collaborator?</span>
+                <span onClick={() => setShow04(!show04)}  className='text-blue-700 cursor-pointer'>How do I add a collection collaborator?</span>
                 {show04 && <p class="text-sm w-auto">From Opensea.io, go to your profile icon and click “Create” in the top right corner. You’ll be taken to the NFT item creation page. This page will allow you to upload your NFT file, name it and add a description.</p>}
-                <button class="bg-blue-400 w-32 p-1 mt-10 text-white">View all</button>
+                <button class="bg-blue-400 w-32 p-1 mt-10 ml-20 text-white">View all</button>
             </div>
 
         </div>
