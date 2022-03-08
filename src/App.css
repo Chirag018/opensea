@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.footer-left{
+  background: linear-gradient(0.13deg, #004ADF -51.4%, rgba(241, 246, 255, 0) 99.89%);
+
+}
+
+.footer-right{
+  background: linear-gradient(0.13deg, #004ADF -51.4%, rgba(241, 246, 255, 0) 99.89%);
+opacity: 0.6;
+}
+
+.create-sell,.leftmainn{
+  background: linear-gradient(180deg, rgba(192, 197, 207, 0.24) 0%, rgba(255, 255, 255, 0) 100%);
+backdrop-filter: blur(120px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 12px;
+}
+
+.notable-drops{
+  background: linear-gradient(183.49deg, rgba(0, 74, 223, 0.24) 0.82%, rgba(231, 237, 242, 0.24) 97.09%);
+}
+
+.sponsor{
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 44.79%, rgba(255, 255, 255, 0) 100%);
+
+}
