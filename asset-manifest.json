@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/opensea/static/css/main.64f6394b.css",
-    "main.js": "/opensea/static/js/main.305c80fe.js",
+    "main.js": "/opensea/static/js/main.ebf1809d.js",
     "static/media/beta.png": "/opensea/static/media/beta.6f4666768a97cc9c269c.png",
     "static/media/alpha.png": "/opensea/static/media/alpha.ea7924819b31efe6e6a4.png",
     "static/media/gamma.png": "/opensea/static/media/gamma.5f4bae486a5d4f12c72d.png",
@@ -24,10 +24,10 @@
     "static/media/trend11.png": "/opensea/static/media/trend11.1b2e4cb590c5c748af46.png",
     "index.html": "/opensea/index.html",
     "main.64f6394b.css.map": "/opensea/static/css/main.64f6394b.css.map",
-    "main.305c80fe.js.map": "/opensea/static/js/main.305c80fe.js.map"
+    "main.ebf1809d.js.map": "/opensea/static/js/main.ebf1809d.js.map"
   },
   "entrypoints": [
     "static/css/main.64f6394b.css",
-    "static/js/main.305c80fe.js"
+    "static/js/main.ebf1809d.js"
   ]
 }
