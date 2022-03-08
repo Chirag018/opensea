@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../assets/logo.png'
+import logo from '../../assets/logo.png'
 import { AiFillFacebook } from 'react-icons/ai'
 import { BsDiscord } from 'react-icons/bs'
 import { AiFillYoutube } from 'react-icons/ai'
