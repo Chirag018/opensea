@@ -13,12 +13,12 @@ function Trending() {
             <div className='p-12 grid grid-rows-1'>
                 <h1 className="font-serif text-3xl py-3">Trending in All Categories</h1>
                 <span className="w-80">A play of light and shade, chairoscuro is the realm between the light and dark.</span>
-                <div className="-mr-96 mt-10 ">
+                <div className="lg:-mr-96 lg:mt-10 -mr-16 -mb-8 mt-6">
                     <a href='#' className="underline text-blue-600 p-10 text-right">Recently Added</a>
                     <a href='#' className="underline text-blue-300">Mostly used</a>
                 </div>
             </div>
-            <div className="grid grid-cols-3 gap-x-3 -mt-10">
+            <div className="grid lg:grid-cols-3 lg:gap-x-3 lg:-mt-10 gap-y-10">
                 <div className=" relative">
                     <img src={trend1} className='w-80' />
                     <div className='border border-x-2 bg-white mb-32 absolute top-64 flex flex-col pb-10 rounded-md w-auto'>

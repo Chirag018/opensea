@@ -14,7 +14,7 @@ function Categories() {
             <div className='grid p-24'>
                 <h1 className="font-serif text-2xl p-10">Explore  Categories</h1>
                 <span className='p-10'>A play of light and shade, chairoscuro is the realm between the light and dark.</span>
-                <div className="cols grid grid-cols-4 gap-x-48 gay-y-48 space-y-1 pr-20">
+                <div className="cols lg:grid lg:grid-cols-4 lg:gap-x-48 lg:gay-y-48 lg:space-y-1 lg:pr-20 space-y-4">
                     <div className="art flex flex-row w-64 h-24 text-left gap-x-2 gap-y-10">
                         <img src={exp1} alt="" className="" />
                         <div>
@@ -71,9 +71,11 @@ function Categories() {
 
 
             </div>
-            <button className='bg-blue-500 text-white p-4'>Explore Marketplace</button>
+            <button className='bg-blue-500 text-white lg:p-4'>Explore Marketplace</button>
         </>
     )
 }
 
 export default Categories
+
+//code to be refactored .

@@ -6,9 +6,9 @@ import Main from './components/Main';
 function App() {
   return (
     <div className="App">
-      <Header />
-      <Main />
-      <Footer />
+      <Header />{/* media query to be .. */}
+      <Main />{/* media query done  */}
+      <Footer /> {/* media query done */}
     </div>
   );
 }

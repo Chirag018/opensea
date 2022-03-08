@@ -11,7 +11,7 @@ const Header = () => {
         <div style={{backgroundImage:`url(${backg})`}} className='flex flex-col pb-20'>
             <div className='ent-app p-2'>
                 <div className='header flex'>
-                    <div className='leftmainn flex items-center '>
+                    <div className='leftmainn flex lg:items-center '>
                         <img src={logo} alt='' className='h-10 pr-2 ml-4' />
                         <span className='text-white'>OpenSea</span>
                     </div>

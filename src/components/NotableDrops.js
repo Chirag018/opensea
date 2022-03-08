@@ -6,12 +6,12 @@ import zamma from '../assets/zamma.png'
 
 function NotableDrops() {
     return (
-        <div className="notable-drops grid grid-cols-2 pb-48">
-            <div className="grid grid-row-2 grid-cols-2">
-                <img className="w-56 mx-20 my-10" src={alpha} alt="FriYayWiz" />
-                <img className="w-48 -ml-8 mt-20" src={beta} alt="Kootings" />
-                <img className="w-56 ml-11 -mt-8" src={gamma} alt="Harry chinati" />
-                <img className="-ml-14 -mt-8" src={zamma} alt="PixelWizards" />
+        <div className="notable-drops lg:grid lg:grid-cols-2 lg:pb-48">
+            <div className="grid lg:grid-row-2 lg:grid-cols-2">
+                <img className="lg:w-56 lg:mx-20 lg:my-10" src={alpha} alt="FriYayWiz" />
+                <img className="lg:w-48 lg:-ml-8 lg:mt-20" src={beta} alt="Kootings" />
+                <img className="lg:w-56 lg:ml-11 lg:-mt-8" src={gamma} alt="Harry chinati" />
+                <img className="lg:-ml-14 lg:-mt-8" src={zamma} alt="PixelWizards" />
             </div>
             <div className="right mx-36 my-20 text-left w-72">
                 <h1 className="text-xl text-blue-700 my-6">Notable Drops</h1>

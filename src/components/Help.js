@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-//custom hooks to be used for repeation.
+//custom hooks to be used for repeatation.
 
 function Help() {
     const [show, setShow] = useState(false);
@@ -10,8 +10,8 @@ function Help() {
     const [show04, setShow04] = useState(false);
 
     return (
-        <div class="grid grid-cols-2 pt-28 pb-32">
-            <div class="left pl-20 text-left w-80 ">
+        <div class="grid lg:grid-cols-2 pt-28 pb-32">
+            <div class="left lg:pl-20 text-left lg:w-80 ">
                 <h1 class="font-serif text-2xl text-blue-700">We will try to help you if you are confused.</h1>
                 <p>A fequently asked question (FAQ) forum is often used in articles,
                     websites, email lists, and online forums where common questions
