@@ -1,5 +1,5 @@
-In the given task I have to perform a UI of an OpenSea App where the users can create their NFT's explore different NFT's out there.
-In the given App we can find many components like :
+In the given task I have to perform a UI of an OpenSea NFT marketplace, where all the genres of NFT's are given, where the users can create their NFT's, explore different NFT's out there.
+In the given App users can find many components like :
 
 i.UI part (Opening page of the Website)
 ii. Create or sell NFT's part
