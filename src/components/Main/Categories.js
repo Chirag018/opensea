@@ -11,9 +11,9 @@ import exp8 from '../../assets/exp8.png'
 function Categories() {
     return (
         <>
-            <div className='grid p-24'>
-                <h1 className="font-serif text-2xl p-10">Explore  Categories</h1>
-                <span className='p-10'>A play of light and shade, chairoscuro is the realm between the light and dark.</span>
+            <div className='grid p-10 text-center '>
+                <h1 className="font-serif text-2xl p-10 ">Explore  Categories</h1>
+                <span className='pb-20 inline'>A play of light and shade, chairoscuro is the realm between the light and dark.</span>
                 <div className="cols lg:grid lg:grid-cols-4 lg:gap-x-48 lg:gay-y-48 lg:space-y-1 lg:pr-20 space-y-4">
                     <div className="art flex flex-row w-64 h-24 text-left gap-x-2 gap-y-10">
                         <img src={exp1} alt="" className="" />
@@ -71,7 +71,7 @@ function Categories() {
 
 
             </div>
-            <button className='bg-blue-500 text-white lg:p-4 lg:ml-96 ml-36 p-4'>Explore Marketplace</button>
+
         </>
     )
 }

@@ -5,10 +5,11 @@ import purse from '../../assets/purse.png'
 import added from '../../assets/added.png'
 import backg from '../../assets/background.png'
 import rightheader from '../../assets/rightheader.png'
+import Header_repeator from '../../data/Header_repeator'
 
 const Header = () => {
     return (
-        <div style={{backgroundImage:`url(${backg})`}} className='flex flex-col pb-20'>
+        <div style={{ backgroundImage: `url(${backg})` }} className='flex flex-col pb-20'>
             <div className='ent-app p-2'>
                 <div className='header flex'>
                     <div className='leftmainn flex lg:items-center '>
@@ -29,10 +30,10 @@ const Header = () => {
             </div>
             <div className='flex justify-between pr-10 '>
                 <div className='leftmainn flex flex-col items-start p-10 pt-20'>
-                    <span className='font-black text-7xl text-white'>Discover.</span>
-                    <span className='font-black text-7xl text-white'> Collect.&Sell.</span>
-                    <span className='font-bold text-7xl text-white'>Extraordinary</span>
-                    <span className='font-bold text-6xl text-white'> NFT's</span>
+                    <Header_repeator data={'Discover.'} />
+                    <Header_repeator data={'Collect. & Sell.'} />
+                    <Header_repeator data={'Extraordinary'} />
+                    <Header_repeator data={`NFT's`} />
                     <span className='pt-6 text-white'>On the world's first & largest NFT </span>
                     <span className='text-white'>marketplace.</span>
                     <div className='flex pt-8'>
@@ -40,10 +41,10 @@ const Header = () => {
                         <button type='submit' className='mt-4 bg-indigo-500 text-white py-2 px-6 ml-4'>Create</button>
                     </div>
                     <a href='#' className='underline pt-14 text-white'>Get Featured On The Homepage</a>
-                    
+
                 </div>
                 <div className='rightmainn flex flex-col text-right pt-52 w-80'>
-                    <img src={rightheader} className=''/>
+                    <img src={rightheader} className='' />
                     <a href='#' className='underline text-white'>SoulCurry Art</a>
                     <span className='text-white'>A play of light and shade,chairoscurso is the realm between the light and dark</span>
                     <button type='submit' className='mt-4 bg-slate-500 text-white py-2 '>Place Bid</button>
@@ -54,3 +55,6 @@ const Header = () => {
 }
 
 export default Header
+
+
+

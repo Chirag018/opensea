@@ -13,7 +13,7 @@ const Footer = () => {
                     <img className="lg:w-10" src={logo}/>
                     <span>OpenSea</span>
                 </div>
-                <p className="lg:w-72 lg:pb-48">From Opensea.io, go to your profile icon and click “Create” in the top right corner. You’ll be taken to the NFT item creation page. This page will allow you to upload your NFT file, name it and add a description.</p>
+                <p className="lg:w-72 lg:pb-48 pb-16 w-64">From Opensea.io, go to your profile icon and click “Create” in the top right corner. You’ll be taken to the NFT item creation page. This page will allow you to upload your NFT file, name it and add a description.</p>
                 <div className="flex">
                     <AiFillFacebook className='lg:w-auto lg:h-10' />
                     <AiFillYoutube className='lg:w-auto lg:h-10' />
@@ -55,9 +55,9 @@ const Footer = () => {
                         <h1 className="loop font-serif text-xl text-blue-900">Stay In The Loop</h1>
                         <p>Join our mailing list to stay in the loop with out newest feature releases, NFT drops, and tips & tricks for navigating OpenSea.</p>
                     </div>
-                    <form className="lg:flex flex-row lg:space-x-2 lg:divide-x-4 lg:divide-blue-500 lg:ml-14">
-                        <input type="text" placeholder="Email Address" className="border p-2 w-64" />
-                        <button className="bg-blue-900">Sign Up</button>
+                    <form className="lg:flex lg:flex-row lg:space-x-2 lg:divide-x-4 lg:divide-blue-500 lg:ml-14">
+                        <input type="text" placeholder="Email Address" className="border p-2 w-64 ml-24" />
+                        <button className="bg-blue-700 ml-16 p-1">Sign Up</button>
                     </form>
 
                     <div className="flex flex-row justify-evenly lg:ml-72">
